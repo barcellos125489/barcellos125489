@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @barcellos125489
 - 🌱 I’m currently learning Computer Engineering at PUC-Rio
-- 💞️ I’m looking to learn more about programming and problem solving
-- 📫 How to reach me ...
