@@ -6,7 +6,7 @@
 <div align="center">
   <div style="display: inline_block"><br>
     <img align="center" alt="barcellos125489-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-    <img align="center" alt="barcellos125489-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cs/cs-original.svg">
+    <img align="center" alt="barcellos125489-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="barcellos125489-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="barcellos125489-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
